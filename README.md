@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif) -->
 <h1 align="center">Hola! 👋, I'm venkat</a></h1>
-<h3 align="center">Data Analyst | Data Engineer | Developer | Designer</h3>
+<h3 align="center">Data Analyst | Business Analyst| Developer | Designer</h3>
 
 <p>
   <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -60,12 +60,7 @@
 <br>
 <br>
 
-<a align="center" href="https://github.com/Venkat185">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Venkat185&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat185&langs_count=4&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,HTML" alt="languages" height="165">
 </p>
-</a>
 
 <b>⚙️ Things I use to get stuff done</b></summary>
   	
