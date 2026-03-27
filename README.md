@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Venkat185&label=Profile%20views&color=0e75b6&style=flat" alt="Venkat185" />
 </p>
 
-- 📫 How to reach me **venkata.vasabathula@gmail.com**
+- 📫 How to reach me **venkat.vasabathula@gmail.com**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Venkat185">My GitHub Profile</a>
 
