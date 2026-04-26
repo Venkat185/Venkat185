@@ -136,9 +136,7 @@ Cloud-native AI services platform with **agentic workflows**, vector-backed RAG,
 ## Achievements
 
 - **CSUCI Plot-A-Thon 2024** — 1st place, data visualization & analysis
-- **LeetCode** — 750+ problems solved, Top **17%** globally
-- **Google Kickstart 2022** — Ranked #1586 in Round H (top 5% of 30,000+)
-- **TCS CodeVita 2022** — Ranked 3,551 of 185,000+ (top 2%)
+
 
 ---
 
