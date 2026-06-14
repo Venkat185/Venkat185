@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Venkata Ratnam Vasabathula</h1>
-<h3 align="center">Senior AI/ML Engineer • LLM Systems • Agentic AI • MLOps</h3>
+<h3 align="center"> AI/ML Engineer • LLM Systems • Agentic AI • MLOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkata-ratnam/?skipRedirect=true">
